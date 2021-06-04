@@ -29,7 +29,8 @@ seo:
       value: website
       keyName: property
     - name: 'og:image'
-      value: images/4.jpg
+      value: >-
+        /_static/app-assets/images/20620864_1948974755345087_5586525841245020349_n.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
