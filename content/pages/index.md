@@ -5,9 +5,11 @@ sections:
   - section_id: hero
     type: section_hero
     title: مراجعة وأسعار الهواتف
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      مراجعة اسعار الهواتف فى 2021 وعرض مميزات وخصائص وسعر كل موبايل وامكانية
+      المقارنة بين الهواتف واسعارها من حيث المساحه والذلكره والكاميرا 
+
+      واسعار الموبايلات فى جميع الدول العربية
   - section_id: about
     type: section_content
     title: About
