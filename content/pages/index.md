@@ -10,7 +10,7 @@ sections:
       المقارنة بين الهواتف واسعارها من حيث المساحه والذلكره والكاميرا 
 
       واسعار الموبايلات فى جميع الدول العربية
-  - section_id: about
+  - section_id: hide
     type: section_content
     title: About
     content: >-
