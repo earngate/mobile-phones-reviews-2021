@@ -19,20 +19,18 @@ sections:
         url: blog/index.html
         style: button
 seo:
-  title: Stackbit Fresh Theme
-  description: The preview of the Fresh theme
+  title: مراجعة واسعار الهواتف 2021
+  description: >
+    مراجعة اسعار الهواتف فى 2021 وعرض مميزات وخصائص وسعر كل موبايل والمقارنة بين
+    الهواتف واسعارها من حيث المساحه والذلكره والكاميرا واسعار الموبايلات فى كل
+    الدول
   extra:
     - name: 'og:type'
       value: website
       keyName: property
-    - name: 'og:title'
-      value: Stackbit Fresh Theme
-      keyName: property
-    - name: 'og:description'
-      value: The preview of the Fresh theme
-      keyName: property
     - name: 'og:image'
-      value: images/4.jpg
+      value: >-
+        /_static/app-assets/images/20620864_1948974755345087_5586525841245020349_n.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
