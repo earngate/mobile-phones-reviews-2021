@@ -65,7 +65,7 @@
             {
                 "label": "Contact",
                 "url": "/contact/",
-                "style": "link"
+                "style": "button"
             }
         ],
         "has_social": true,
