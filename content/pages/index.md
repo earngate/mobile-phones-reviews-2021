@@ -12,7 +12,7 @@ sections:
       واسعار الموبايلات فى جميع الدول العربية
   - section_id: recent-posts
     type: section_posts
-    title: Recent Posts
+    title: جديد المدونة
     posts_number: 4
     actions:
       - label: View Blog
