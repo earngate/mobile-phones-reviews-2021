@@ -20,7 +20,12 @@ sections:
         style: button
 seo:
   title: مراجعة واسعار الهواتف 2021
-  description: The preview of the Fresh theme
+  description: >+
+    مراجعة اسعار الهواتف فى 2021 وعرض مميزات وخصائص وسعر كل موبايل وامكانية
+    المقارنة بين الهواتف واسعارها من حيث المساحه والذلكره والكاميرا واسعار
+    الموبايلات فى جميع الدول العربية
+
+
   extra:
     - name: 'og:type'
       value: website
