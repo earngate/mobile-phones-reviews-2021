@@ -26,6 +26,10 @@ seo:
       value: افضل هواتف شاومي في 2021
       keyName: property
       relativeUrl: true
+    - name: 'og:title'
+      value: افضل هواتف شاومي في 2021
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
