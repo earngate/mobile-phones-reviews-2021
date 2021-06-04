@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: افضل هواتف شاومي في 2021
 hide_title: true
 excerpt: lorem-ipsum
 sections:
