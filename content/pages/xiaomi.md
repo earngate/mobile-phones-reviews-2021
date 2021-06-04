@@ -1,7 +1,7 @@
 ---
 title: افضل هواتف شاومي في 2021
 hide_title: true
-excerpt: lorem-ipsum
+excerpt: افضل هواتف شاومي في 2021
 sections:
   - title: موبايل شاومى Xiaomi
     section_id: lorem-ipsum
