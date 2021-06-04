@@ -14,7 +14,7 @@ sections:
     actions: []
     type: section_content
 seo:
-  title: ''
+  title: افضل هواتف شاومي في 2021
   description: >-
     تأتي قائمة أفضل Xiaomi 2021 (أفضل هواتف Xiaomi لعام 2021) مع Xiaomi، والتي
     تسمح للبالغين 
