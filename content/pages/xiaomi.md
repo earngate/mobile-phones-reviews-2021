@@ -21,7 +21,11 @@ seo:
 
     1202 بالبقاء في عالم الهواتف الذكية من عام 
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: افضل هواتف شاومي في 2021
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: advanced
 ---
