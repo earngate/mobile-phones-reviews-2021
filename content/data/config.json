@@ -45,8 +45,8 @@
                 "type": "action"
             },
             {
-                "label": "lorem-ipsum",
-                "url": "#",
+                "label": "موبايل ريلمى",
+                "url": "/posts/realme",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
@@ -59,12 +59,13 @@
                 "icon_class": "dev",
                 "new_window": false,
                 "no_follow": false,
-                "type": "action"
+                "type": "action",
+                "label": "مقارنة هواتف"
             },
             {
                 "label": "Contact",
                 "url": "/contact/",
-                "style": "link"
+                "style": "button"
             }
         ],
         "has_social": true,
