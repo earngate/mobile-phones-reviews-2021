@@ -1,9 +1,10 @@
 ---
 title: افضل هواتف شاومى Xiaomi
 excerpt: >-
-  Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
-  It has a population of 325,671 and an area of 103,000 km2 (40,000 sq mi),
-  making it the most sparsely populated country in Europe.
+  تأتي قائمة أفضل Xiaomi 2021 (أفضل هواتف Xiaomi لعام 2021) مع Xiaomi، والتي
+  تسمح للبالغين بالبقاء في عالم الهواتف الذكية من عام 2020 وتطوير قاعدة مروحة
+  صلبة بفضل جودة أجهزتهم والمواصفات الممتازة. وضعنا على هذه القائمة من أفضل
+  الهواتف Xiaomi حتى تتمكن من رؤية ما هو الأفضل بالنسبة لك في حاجة والميزانية.
 date: '2020-03-27'
 thumb_img_path: /images/maroon-cabbage.png
 thumb_img_alt: موبايل شاومى xiaomi
