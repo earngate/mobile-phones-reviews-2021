@@ -40,6 +40,11 @@ seo:
       value: images/7.jpg
       relativeUrl: true
 layout: post
+subtitle: >-
+  تأتي قائمة أفضل Xiaomi 2021 (أفضل هواتف Xiaomi لعام 2021) مع Xiaomi، والتي
+  تسمح للبالغين بالبقاء في عالم الهواتف الذكية من عام 2020 وتطوير قاعدة مروحة
+  صلبة بفضل جودة أجهزتهم والمواصفات الممتازة. وضعنا على هذه القائمة من أفضل
+  الهواتف Xiaomi حتى تتمكن من رؤية ما هو الأفضل بالنسبة لك في حاجة والميزانية.
 ---
 
 Photo by [Anders Jildén](https://unsplash.com/photos/uO4Au3LrCtk)
