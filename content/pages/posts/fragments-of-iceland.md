@@ -8,7 +8,7 @@ date: '2020-03-27'
 thumb_img_path: /images/maroon-cabbage.png
 thumb_img_alt: موبايل شاومى xiaomi
 content_img_path: /images/pink-ant.png
-content_img_alt: Icelandic horses
+content_img_alt: موبايل شاومى xiaomi
 seo:
   title: Fragments of Iceland
   description: Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
